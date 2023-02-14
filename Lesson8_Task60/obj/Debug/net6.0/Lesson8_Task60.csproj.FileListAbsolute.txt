@@ -1,0 +1,15 @@
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less8\Lesson8_Task60\bin\Debug\net6.0\Lesson8_Task60.exe
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less8\Lesson8_Task60\bin\Debug\net6.0\Lesson8_Task60.deps.json
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less8\Lesson8_Task60\bin\Debug\net6.0\Lesson8_Task60.runtimeconfig.json
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less8\Lesson8_Task60\bin\Debug\net6.0\Lesson8_Task60.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less8\Lesson8_Task60\bin\Debug\net6.0\Lesson8_Task60.pdb
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less8\Lesson8_Task60\obj\Debug\net6.0\Lesson8_Task60.csproj.AssemblyReference.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less8\Lesson8_Task60\obj\Debug\net6.0\Lesson8_Task60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less8\Lesson8_Task60\obj\Debug\net6.0\Lesson8_Task60.AssemblyInfoInputs.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less8\Lesson8_Task60\obj\Debug\net6.0\Lesson8_Task60.AssemblyInfo.cs
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less8\Lesson8_Task60\obj\Debug\net6.0\Lesson8_Task60.csproj.CoreCompileInputs.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less8\Lesson8_Task60\obj\Debug\net6.0\Lesson8_Task60.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less8\Lesson8_Task60\obj\Debug\net6.0\refint\Lesson8_Task60.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less8\Lesson8_Task60\obj\Debug\net6.0\Lesson8_Task60.pdb
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less8\Lesson8_Task60\obj\Debug\net6.0\Lesson8_Task60.genruntimeconfig.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less8\Lesson8_Task60\obj\Debug\net6.0\ref\Lesson8_Task60.dll
